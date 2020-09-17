@@ -1,3 +1,5 @@
 raw/
 .ipynb_checkpoints
+generating_covid_datasets/data/raw_google_dataset.csv
+predicting_reopening_success/data/processed/efs_eu_us_for_rebound_days_nature_mi.pkl
 
