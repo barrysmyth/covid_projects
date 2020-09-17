@@ -1,0 +1,859 @@
+Entity,Code,Date,"Excess mortality P-scores, all ages (%)"
+Austria,AUT,"Jan 5, 2020",-11
+Austria,AUT,"Jan 12, 2020",-8
+Austria,AUT,"Jan 19, 2020",1
+Austria,AUT,"Jan 26, 2020",2
+Austria,AUT,"Feb 2, 2020",7
+Austria,AUT,"Feb 9, 2020",-9
+Austria,AUT,"Feb 16, 2020",-5
+Austria,AUT,"Feb 23, 2020",-6
+Austria,AUT,"Mar 1, 2020",-3
+Austria,AUT,"Mar 8, 2020",-1
+Austria,AUT,"Mar 15, 2020",0
+Austria,AUT,"Mar 22, 2020",15
+Austria,AUT,"Mar 29, 2020",7
+Austria,AUT,"Apr 5, 2020",15
+Austria,AUT,"Apr 12, 2020",16
+Austria,AUT,"Apr 19, 2020",12
+Austria,AUT,"Apr 26, 2020",8
+Austria,AUT,"May 3, 2020",1
+Austria,AUT,"May 10, 2020",5
+Austria,AUT,"May 17, 2020",2
+Austria,AUT,"May 24, 2020",4
+Austria,AUT,"May 31, 2020",0
+Austria,AUT,"Jun 7, 2020",5
+Austria,AUT,"Jun 14, 2020",1
+Austria,AUT,"Jun 21, 2020",0
+Austria,AUT,"Jun 28, 2020",3
+Austria,AUT,"Jul 5, 2020",8
+Austria,AUT,"Jul 12, 2020",0
+Austria,AUT,"Jul 19, 2020",-2
+Austria,AUT,"Jul 26, 2020",-3
+Austria,AUT,"Aug 2, 2020",1
+Austria,AUT,"Aug 9, 2020",1
+Belgium,BEL,"Jan 5, 2020",-7
+Belgium,BEL,"Jan 12, 2020",-2
+Belgium,BEL,"Jan 19, 2020",-5
+Belgium,BEL,"Jan 26, 2020",-9
+Belgium,BEL,"Feb 2, 2020",-6
+Belgium,BEL,"Feb 9, 2020",-13
+Belgium,BEL,"Feb 16, 2020",-9
+Belgium,BEL,"Feb 23, 2020",-8
+Belgium,BEL,"Mar 1, 2020",-12
+Belgium,BEL,"Mar 8, 2020",-10
+Belgium,BEL,"Mar 15, 2020",-5
+Belgium,BEL,"Mar 22, 2020",10
+Belgium,BEL,"Mar 29, 2020",43
+Belgium,BEL,"Apr 5, 2020",90
+Belgium,BEL,"Apr 12, 2020",104
+Belgium,BEL,"Apr 19, 2020",80
+Belgium,BEL,"Apr 26, 2020",49
+Belgium,BEL,"May 3, 2020",20
+Belgium,BEL,"May 10, 2020",17
+Belgium,BEL,"May 17, 2020",3
+Belgium,BEL,"May 24, 2020",5
+Belgium,BEL,"May 31, 2020",2
+Belgium,BEL,"Jun 7, 2020",-5
+Belgium,BEL,"Jun 14, 2020",1
+Belgium,BEL,"Jun 21, 2020",-6
+Belgium,BEL,"Jun 28, 2020",3
+Belgium,BEL,"Jul 5, 2020",-13
+Belgium,BEL,"Jul 12, 2020",-10
+Belgium,BEL,"Jul 19, 2020",-4
+Belgium,BEL,"Jul 26, 2020",-11
+Belgium,BEL,"Aug 2, 2020",2
+Belgium,BEL,"Aug 9, 2020",5
+Bulgaria,BGR,"Jan 5, 2020",-19
+Bulgaria,BGR,"Jan 12, 2020",-12
+Bulgaria,BGR,"Jan 19, 2020",-14
+Bulgaria,BGR,"Jan 26, 2020",-5
+Bulgaria,BGR,"Feb 2, 2020",-1
+Bulgaria,BGR,"Feb 9, 2020",1
+Bulgaria,BGR,"Feb 16, 2020",0
+Bulgaria,BGR,"Feb 23, 2020",-6
+Bulgaria,BGR,"Mar 1, 2020",-5
+Bulgaria,BGR,"Mar 8, 2020",-10
+Bulgaria,BGR,"Mar 15, 2020",-6
+Bulgaria,BGR,"Mar 22, 2020",-6
+Bulgaria,BGR,"Mar 29, 2020",-4
+Bulgaria,BGR,"Apr 5, 2020",-5
+Bulgaria,BGR,"Apr 12, 2020",-3
+Bulgaria,BGR,"Apr 19, 2020",-3
+Bulgaria,BGR,"Apr 26, 2020",-4
+Bulgaria,BGR,"May 3, 2020",-7
+Bulgaria,BGR,"May 10, 2020",-6
+Bulgaria,BGR,"May 17, 2020",5
+Bulgaria,BGR,"May 24, 2020",-5
+Bulgaria,BGR,"May 31, 2020",-8
+Bulgaria,BGR,"Jun 7, 2020",-1
+Bulgaria,BGR,"Jun 14, 2020",0
+Bulgaria,BGR,"Jun 21, 2020",-3
+Bulgaria,BGR,"Jun 28, 2020",-3
+Bulgaria,BGR,"Jul 5, 2020",12
+Bulgaria,BGR,"Jul 12, 2020",4
+Bulgaria,BGR,"Jul 19, 2020",-3
+Bulgaria,BGR,"Jul 26, 2020",-1
+Bulgaria,BGR,"Aug 2, 2020",9
+Bulgaria,BGR,"Aug 9, 2020",5
+Bulgaria,BGR,"Aug 16, 2020",4
+Czech Republic,CZE,"Jan 5, 2020",-3
+Czech Republic,CZE,"Jan 12, 2020",-1
+Czech Republic,CZE,"Jan 19, 2020",-6
+Czech Republic,CZE,"Jan 26, 2020",-2
+Czech Republic,CZE,"Feb 2, 2020",-2
+Czech Republic,CZE,"Feb 9, 2020",-5
+Czech Republic,CZE,"Feb 16, 2020",-5
+Czech Republic,CZE,"Feb 23, 2020",-6
+Czech Republic,CZE,"Mar 1, 2020",-5
+Czech Republic,CZE,"Mar 8, 2020",-5
+Czech Republic,CZE,"Mar 15, 2020",-2
+Czech Republic,CZE,"Mar 22, 2020",2
+Czech Republic,CZE,"Mar 29, 2020",4
+Czech Republic,CZE,"Apr 5, 2020",7
+Czech Republic,CZE,"Apr 12, 2020",6
+Czech Republic,CZE,"Apr 19, 2020",2
+Czech Republic,CZE,"Apr 26, 2020",-4
+Czech Republic,CZE,"May 3, 2020",4
+Czech Republic,CZE,"May 10, 2020",-2
+Czech Republic,CZE,"May 17, 2020",2
+Czech Republic,CZE,"May 24, 2020",-4
+Czech Republic,CZE,"May 31, 2020",-6
+Czech Republic,CZE,"Jun 7, 2020",8
+Czech Republic,CZE,"Jun 14, 2020",0
+Czech Republic,CZE,"Jun 21, 2020",3
+Czech Republic,CZE,"Jun 28, 2020",5
+Czech Republic,CZE,"Jul 5, 2020",2
+Denmark,DNK,"Jan 5, 2020",0
+Denmark,DNK,"Jan 12, 2020",3
+Denmark,DNK,"Jan 19, 2020",-3
+Denmark,DNK,"Jan 26, 2020",-7
+Denmark,DNK,"Feb 2, 2020",-5
+Denmark,DNK,"Feb 9, 2020",-5
+Denmark,DNK,"Feb 16, 2020",-9
+Denmark,DNK,"Feb 23, 2020",-11
+Denmark,DNK,"Mar 1, 2020",-14
+Denmark,DNK,"Mar 8, 2020",-9
+Denmark,DNK,"Mar 15, 2020",-8
+Denmark,DNK,"Mar 22, 2020",1
+Denmark,DNK,"Mar 29, 2020",2
+Denmark,DNK,"Apr 5, 2020",9
+Denmark,DNK,"Apr 12, 2020",7
+Denmark,DNK,"Apr 19, 2020",5
+Denmark,DNK,"Apr 26, 2020",10
+Denmark,DNK,"May 3, 2020",1
+Denmark,DNK,"May 10, 2020",1
+Denmark,DNK,"May 17, 2020",-2
+Denmark,DNK,"May 24, 2020",3
+Denmark,DNK,"May 31, 2020",-1
+Denmark,DNK,"Jun 7, 2020",-1
+Denmark,DNK,"Jun 14, 2020",2
+Denmark,DNK,"Jun 21, 2020",-2
+Denmark,DNK,"Jun 28, 2020",5
+Denmark,DNK,"Jul 5, 2020",6
+Denmark,DNK,"Jul 12, 2020",1
+Denmark,DNK,"Jul 19, 2020",7
+Denmark,DNK,"Jul 26, 2020",-4
+Denmark,DNK,"Aug 2, 2020",1
+Denmark,DNK,"Aug 9, 2020",0
+Denmark,DNK,"Aug 16, 2020",1
+England & Wales,,"Jan 5, 2020",0
+England & Wales,,"Jan 12, 2020",2
+England & Wales,,"Jan 19, 2020",-2
+England & Wales,,"Jan 26, 2020",-7
+England & Wales,,"Feb 2, 2020",-5
+England & Wales,,"Feb 9, 2020",-8
+England & Wales,,"Feb 16, 2020",-6
+England & Wales,,"Feb 23, 2020",-6
+England & Wales,,"Mar 1, 2020",-3
+England & Wales,,"Mar 8, 2020",-5
+England & Wales,,"Mar 15, 2020",-2
+England & Wales,,"Mar 22, 2020",1
+England & Wales,,"Mar 29, 2020",10
+England & Wales,,"Apr 5, 2020",59
+England & Wales,,"Apr 12, 2020",76
+England & Wales,,"Apr 19, 2020",113
+England & Wales,,"Apr 26, 2020",110
+England & Wales,,"May 3, 2020",81
+England & Wales,,"May 10, 2020",32
+England & Wales,,"May 17, 2020",43
+England & Wales,,"May 24, 2020",24
+England & Wales,,"May 31, 2020",20
+England & Wales,,"Jun 7, 2020",7
+England & Wales,,"Jun 14, 2020",6
+England & Wales,,"Jun 21, 2020",-1
+England & Wales,,"Jun 28, 2020",-3
+England & Wales,,"Jul 5, 2020",0
+England & Wales,,"Jul 12, 2020",-6
+England & Wales,,"Jul 19, 2020",-3
+England & Wales,,"Jul 26, 2020",-2
+England & Wales,,"Aug 2, 2020",-1
+England & Wales,,"Aug 9, 2020",-2
+England & Wales,,"Aug 16, 2020",3
+Estonia,EST,"Jan 5, 2020",-14
+Estonia,EST,"Jan 12, 2020",-4
+Estonia,EST,"Jan 19, 2020",-4
+Estonia,EST,"Jan 26, 2020",-11
+Estonia,EST,"Feb 2, 2020",-9
+Estonia,EST,"Feb 9, 2020",-20
+Estonia,EST,"Feb 16, 2020",0
+Estonia,EST,"Feb 23, 2020",-1
+Estonia,EST,"Mar 1, 2020",-6
+Estonia,EST,"Mar 8, 2020",-12
+Estonia,EST,"Mar 15, 2020",5
+Estonia,EST,"Mar 22, 2020",0
+Estonia,EST,"Mar 29, 2020",4
+Estonia,EST,"Apr 5, 2020",4
+Estonia,EST,"Apr 12, 2020",3
+Estonia,EST,"Apr 19, 2020",3
+Estonia,EST,"Apr 26, 2020",14
+Estonia,EST,"May 3, 2020",5
+Estonia,EST,"May 10, 2020",10
+Estonia,EST,"May 17, 2020",-5
+Estonia,EST,"May 24, 2020",-3
+Estonia,EST,"May 31, 2020",9
+Estonia,EST,"Jun 7, 2020",-3
+Estonia,EST,"Jun 14, 2020",4
+Estonia,EST,"Jun 21, 2020",0
+Estonia,EST,"Jun 28, 2020",10
+Estonia,EST,"Jul 5, 2020",3
+Estonia,EST,"Jul 12, 2020",1
+Estonia,EST,"Jul 19, 2020",3
+Estonia,EST,"Jul 26, 2020",5
+Estonia,EST,"Aug 2, 2020",11
+Estonia,EST,"Aug 9, 2020",-2
+Estonia,EST,"Aug 16, 2020",3
+Finland,FIN,"Jan 5, 2020",-10
+Finland,FIN,"Jan 12, 2020",-10
+Finland,FIN,"Jan 19, 2020",-10
+Finland,FIN,"Jan 26, 2020",-8
+Finland,FIN,"Feb 2, 2020",-6
+Finland,FIN,"Feb 9, 2020",-1
+Finland,FIN,"Feb 16, 2020",0
+Finland,FIN,"Feb 23, 2020",0
+Finland,FIN,"Mar 1, 2020",-6
+Finland,FIN,"Mar 8, 2020",0
+Finland,FIN,"Mar 15, 2020",0
+Finland,FIN,"Mar 22, 2020",3
+Finland,FIN,"Mar 29, 2020",4
+Finland,FIN,"Apr 5, 2020",3
+Finland,FIN,"Apr 12, 2020",13
+Finland,FIN,"Apr 19, 2020",4
+Finland,FIN,"Apr 26, 2020",12
+Finland,FIN,"May 3, 2020",9
+Finland,FIN,"May 10, 2020",8
+Finland,FIN,"May 17, 2020",13
+Finland,FIN,"May 24, 2020",-1
+Finland,FIN,"May 31, 2020",4
+Finland,FIN,"Jun 7, 2020",1
+Finland,FIN,"Jun 14, 2020",5
+Finland,FIN,"Jun 21, 2020",10
+Finland,FIN,"Jun 28, 2020",6
+Finland,FIN,"Jul 5, 2020",4
+Finland,FIN,"Jul 12, 2020",-2
+Finland,FIN,"Jul 19, 2020",5
+Finland,FIN,"Jul 26, 2020",-6
+Finland,FIN,"Aug 2, 2020",-4
+Finland,FIN,"Aug 9, 2020",-36
+France,FRA,"Jan 5, 2020",-5
+France,FRA,"Jan 12, 2020",-3
+France,FRA,"Jan 19, 2020",-5
+France,FRA,"Jan 26, 2020",-6
+France,FRA,"Feb 2, 2020",-4
+France,FRA,"Feb 9, 2020",-6
+France,FRA,"Feb 16, 2020",-6
+France,FRA,"Feb 23, 2020",-8
+France,FRA,"Mar 1, 2020",-7
+France,FRA,"Mar 8, 2020",-4
+France,FRA,"Mar 15, 2020",4
+France,FRA,"Mar 22, 2020",18
+France,FRA,"Mar 29, 2020",39
+France,FRA,"Apr 5, 2020",65
+France,FRA,"Apr 12, 2020",57
+France,FRA,"Apr 19, 2020",39
+France,FRA,"Apr 26, 2020",17
+France,FRA,"May 3, 2020",4
+France,FRA,"May 10, 2020",3
+France,FRA,"May 17, 2020",1
+France,FRA,"May 24, 2020",5
+France,FRA,"May 31, 2020",0
+France,FRA,"Jun 7, 2020",0
+France,FRA,"Jun 14, 2020",-1
+France,FRA,"Jun 21, 2020",-8
+Germany,DEU,"Jan 5, 2020",-2
+Germany,DEU,"Jan 12, 2020",-1
+Germany,DEU,"Jan 19, 2020",-2
+Germany,DEU,"Jan 26, 2020",-5
+Germany,DEU,"Feb 2, 2020",-3
+Germany,DEU,"Feb 9, 2020",-6
+Germany,DEU,"Feb 16, 2020",-5
+Germany,DEU,"Feb 23, 2020",-10
+Germany,DEU,"Mar 1, 2020",-10
+Germany,DEU,"Mar 8, 2020",-8
+Germany,DEU,"Mar 15, 2020",-3
+Germany,DEU,"Mar 22, 2020",1
+Germany,DEU,"Mar 29, 2020",4
+Germany,DEU,"Apr 5, 2020",12
+Germany,DEU,"Apr 12, 2020",14
+Germany,DEU,"Apr 19, 2020",10
+Germany,DEU,"Apr 26, 2020",6
+Germany,DEU,"May 3, 2020",5
+Germany,DEU,"May 10, 2020",2
+Germany,DEU,"May 17, 2020",0
+Germany,DEU,"May 24, 2020",3
+Germany,DEU,"May 31, 2020",-1
+Germany,DEU,"Jun 7, 2020",4
+Germany,DEU,"Jun 14, 2020",3
+Germany,DEU,"Jun 21, 2020",-2
+Germany,DEU,"Jun 28, 2020",4
+Germany,DEU,"Jul 5, 2020",-1
+Germany,DEU,"Jul 12, 2020",-1
+Germany,DEU,"Jul 19, 2020",-3
+Germany,DEU,"Jul 26, 2020",-6
+Hungary,HUN,"Jan 5, 2020",-10
+Hungary,HUN,"Jan 12, 2020",-12
+Hungary,HUN,"Jan 19, 2020",-12
+Hungary,HUN,"Jan 26, 2020",-10
+Hungary,HUN,"Feb 2, 2020",-8
+Hungary,HUN,"Feb 9, 2020",-14
+Hungary,HUN,"Feb 16, 2020",-8
+Hungary,HUN,"Feb 23, 2020",-13
+Hungary,HUN,"Mar 1, 2020",-4
+Hungary,HUN,"Mar 8, 2020",-7
+Hungary,HUN,"Mar 15, 2020",-5
+Hungary,HUN,"Mar 22, 2020",6
+Hungary,HUN,"Mar 29, 2020",0
+Hungary,HUN,"Apr 5, 2020",1
+Hungary,HUN,"Apr 12, 2020",4
+Hungary,HUN,"Apr 19, 2020",3
+Hungary,HUN,"Apr 26, 2020",-3
+Hungary,HUN,"May 3, 2020",-5
+Hungary,HUN,"May 10, 2020",-1
+Hungary,HUN,"May 17, 2020",3
+Hungary,HUN,"May 24, 2020",-7
+Hungary,HUN,"May 31, 2020",-4
+Hungary,HUN,"Jun 7, 2020",6
+Hungary,HUN,"Jun 14, 2020",0
+Hungary,HUN,"Jun 21, 2020",-8
+Hungary,HUN,"Jun 28, 2020",2
+Hungary,HUN,"Jul 5, 2020",1
+Hungary,HUN,"Jul 12, 2020",-7
+Hungary,HUN,"Jul 19, 2020",-10
+Hungary,HUN,"Jul 26, 2020",-13
+Iceland,ISL,"Jan 5, 2020",24
+Iceland,ISL,"Jan 12, 2020",15
+Iceland,ISL,"Jan 19, 2020",17
+Iceland,ISL,"Jan 26, 2020",23
+Iceland,ISL,"Feb 2, 2020",-14
+Iceland,ISL,"Feb 16, 2020",4
+Iceland,ISL,"Feb 23, 2020",4
+Iceland,ISL,"Mar 8, 2020",10
+Iceland,ISL,"Mar 22, 2020",-6
+Iceland,ISL,"Mar 29, 2020",-11
+Iceland,ISL,"Apr 5, 2020",15
+Iceland,ISL,"Apr 12, 2020",10
+Iceland,ISL,"Apr 19, 2020",23
+Iceland,ISL,"May 3, 2020",7
+Iceland,ISL,"May 10, 2020",-11
+Iceland,ISL,"May 24, 2020",15
+Iceland,ISL,"May 31, 2020",17
+Iceland,ISL,"Jun 14, 2020",-2
+Iceland,ISL,"Jun 21, 2020",-20
+Iceland,ISL,"Jun 28, 2020",-28
+Iceland,ISL,"Jul 5, 2020",-19
+Iceland,ISL,"Jul 12, 2020",20
+Iceland,ISL,"Jul 19, 2020",7
+Iceland,ISL,"Jul 26, 2020",-22
+Iceland,ISL,"Aug 2, 2020",-3
+Iceland,ISL,"Aug 16, 2020",-8
+Israel,ISR,"Jan 5, 2020",8
+Israel,ISR,"Jan 12, 2020",-4
+Israel,ISR,"Jan 19, 2020",6
+Israel,ISR,"Jan 26, 2020",-5
+Israel,ISR,"Feb 2, 2020",-6
+Israel,ISR,"Feb 9, 2020",-10
+Israel,ISR,"Feb 16, 2020",-2
+Israel,ISR,"Feb 23, 2020",0
+Israel,ISR,"Mar 1, 2020",-6
+Israel,ISR,"Mar 8, 2020",-1
+Israel,ISR,"Mar 15, 2020",4
+Israel,ISR,"Mar 22, 2020",3
+Israel,ISR,"Mar 29, 2020",10
+Israel,ISR,"Apr 5, 2020",18
+Israel,ISR,"Apr 12, 2020",5
+Israel,ISR,"Apr 19, 2020",12
+Israel,ISR,"Apr 26, 2020",5
+Israel,ISR,"May 3, 2020",2
+Israel,ISR,"May 10, 2020",5
+Israel,ISR,"May 17, 2020",6
+Israel,ISR,"May 24, 2020",20
+Israel,ISR,"May 31, 2020",6
+Israel,ISR,"Jun 7, 2020",4
+Israel,ISR,"Jun 14, 2020",4
+Israel,ISR,"Jun 21, 2020",3
+Israel,ISR,"Jun 28, 2020",2
+Israel,ISR,"Jul 5, 2020",0
+Israel,ISR,"Jul 12, 2020",9
+Israel,ISR,"Jul 19, 2020",8
+Israel,ISR,"Jul 26, 2020",0
+Israel,ISR,"Aug 2, 2020",9
+Israel,ISR,"Aug 9, 2020",-13
+Italy,ITA,"Jan 5, 2020",-12
+Italy,ITA,"Jan 12, 2020",-10
+Italy,ITA,"Jan 19, 2020",-8
+Italy,ITA,"Jan 26, 2020",-5
+Italy,ITA,"Feb 2, 2020",-5
+Italy,ITA,"Feb 9, 2020",-4
+Italy,ITA,"Feb 16, 2020",-3
+Italy,ITA,"Feb 23, 2020",-4
+Italy,ITA,"Mar 1, 2020",0
+Italy,ITA,"Mar 8, 2020",11
+Italy,ITA,"Mar 15, 2020",42
+Italy,ITA,"Mar 22, 2020",78
+Italy,ITA,"Mar 29, 2020",90
+Italy,ITA,"Apr 5, 2020",69
+Italy,ITA,"Apr 12, 2020",56
+Italy,ITA,"Apr 19, 2020",39
+Italy,ITA,"Apr 26, 2020",24
+Italy,ITA,"May 3, 2020",13
+Italy,ITA,"May 10, 2020",7
+Italy,ITA,"May 17, 2020",4
+Italy,ITA,"May 24, 2020",-2
+Italy,ITA,"May 31, 2020",-4
+Italy,ITA,"Jun 7, 2020",-6
+Italy,ITA,"Jun 14, 2020",-10
+Italy,ITA,"Jun 21, 2020",-6
+Italy,ITA,"Jun 28, 2020",0
+Latvia,LVA,"Jan 5, 2020",-2
+Latvia,LVA,"Jan 12, 2020",-5
+Latvia,LVA,"Jan 19, 2020",-15
+Latvia,LVA,"Jan 26, 2020",-10
+Latvia,LVA,"Feb 2, 2020",-9
+Latvia,LVA,"Feb 9, 2020",-10
+Latvia,LVA,"Feb 16, 2020",-10
+Latvia,LVA,"Feb 23, 2020",-13
+Latvia,LVA,"Mar 1, 2020",-29
+Latvia,LVA,"Mar 8, 2020",-22
+Latvia,LVA,"Mar 15, 2020",-14
+Latvia,LVA,"Mar 22, 2020",-6
+Latvia,LVA,"Mar 29, 2020",-11
+Latvia,LVA,"Apr 5, 2020",-4
+Latvia,LVA,"Apr 12, 2020",-15
+Latvia,LVA,"Apr 19, 2020",4
+Latvia,LVA,"Apr 26, 2020",-2
+Latvia,LVA,"May 3, 2020",4
+Latvia,LVA,"May 10, 2020",7
+Latvia,LVA,"May 17, 2020",-2
+Latvia,LVA,"May 24, 2020",7
+Latvia,LVA,"May 31, 2020",-4
+Latvia,LVA,"Jun 7, 2020",0
+Latvia,LVA,"Jun 14, 2020",10
+Latvia,LVA,"Jun 21, 2020",-6
+Latvia,LVA,"Jun 28, 2020",-4
+Latvia,LVA,"Jul 5, 2020",22
+Latvia,LVA,"Jul 12, 2020",-8
+Latvia,LVA,"Jul 19, 2020",-5
+Latvia,LVA,"Jul 26, 2020",-1
+Latvia,LVA,"Aug 2, 2020",1
+Latvia,LVA,"Aug 9, 2020",-3
+Latvia,LVA,"Aug 16, 2020",3
+Latvia,LVA,"Aug 23, 2020",11
+Lithuania,LTU,"Jan 5, 2020",-6
+Lithuania,LTU,"Jan 12, 2020",-8
+Lithuania,LTU,"Jan 19, 2020",-14
+Lithuania,LTU,"Jan 26, 2020",-14
+Lithuania,LTU,"Feb 2, 2020",-16
+Lithuania,LTU,"Feb 9, 2020",-15
+Lithuania,LTU,"Feb 16, 2020",-8
+Lithuania,LTU,"Feb 23, 2020",-21
+Lithuania,LTU,"Mar 1, 2020",-7
+Lithuania,LTU,"Mar 8, 2020",-8
+Lithuania,LTU,"Mar 15, 2020",-6
+Lithuania,LTU,"Mar 22, 2020",0
+Lithuania,LTU,"Mar 29, 2020",4
+Lithuania,LTU,"Apr 5, 2020",-3
+Lithuania,LTU,"Apr 12, 2020",2
+Lithuania,LTU,"Apr 19, 2020",0
+Lithuania,LTU,"Apr 26, 2020",3
+Lithuania,LTU,"May 3, 2020",3
+Lithuania,LTU,"May 10, 2020",-6
+Lithuania,LTU,"May 17, 2020",-1
+Lithuania,LTU,"May 24, 2020",-8
+Lithuania,LTU,"May 31, 2020",-1
+Lithuania,LTU,"Jun 7, 2020",-1
+Lithuania,LTU,"Jun 14, 2020",15
+Lithuania,LTU,"Jun 21, 2020",7
+Lithuania,LTU,"Jun 28, 2020",11
+Lithuania,LTU,"Jul 5, 2020",-2
+Lithuania,LTU,"Jul 12, 2020",-1
+Lithuania,LTU,"Jul 19, 2020",7
+Lithuania,LTU,"Jul 26, 2020",-7
+Lithuania,LTU,"Aug 2, 2020",0
+Luxembourg,LUX,"Jan 5, 2020",-27
+Luxembourg,LUX,"Jan 12, 2020",-8
+Luxembourg,LUX,"Jan 19, 2020",3
+Luxembourg,LUX,"Jan 26, 2020",-2
+Luxembourg,LUX,"Feb 2, 2020",-9
+Luxembourg,LUX,"Feb 9, 2020",-7
+Luxembourg,LUX,"Feb 16, 2020",-29
+Luxembourg,LUX,"Mar 1, 2020",-16
+Luxembourg,LUX,"Mar 15, 2020",12
+Luxembourg,LUX,"Mar 22, 2020",3
+Luxembourg,LUX,"Mar 29, 2020",30
+Luxembourg,LUX,"Apr 5, 2020",8
+Luxembourg,LUX,"Apr 12, 2020",62
+Luxembourg,LUX,"Apr 19, 2020",13
+Luxembourg,LUX,"Apr 26, 2020",13
+Luxembourg,LUX,"May 3, 2020",-4
+Luxembourg,LUX,"May 10, 2020",26
+Luxembourg,LUX,"May 17, 2020",8
+Luxembourg,LUX,"May 24, 2020",2
+Luxembourg,LUX,"Jun 7, 2020",-1
+Luxembourg,LUX,"Jun 14, 2020",-8
+Luxembourg,LUX,"Jun 21, 2020",17
+Luxembourg,LUX,"Jun 28, 2020",-1
+Netherlands,NLD,"Jan 5, 2020",-5
+Netherlands,NLD,"Jan 12, 2020",0
+Netherlands,NLD,"Jan 19, 2020",-4
+Netherlands,NLD,"Jan 26, 2020",-9
+Netherlands,NLD,"Feb 2, 2020",-5
+Netherlands,NLD,"Feb 9, 2020",-3
+Netherlands,NLD,"Feb 16, 2020",-4
+Netherlands,NLD,"Feb 23, 2020",-13
+Netherlands,NLD,"Mar 1, 2020",-6
+Netherlands,NLD,"Mar 8, 2020",-7
+Netherlands,NLD,"Mar 15, 2020",1
+Netherlands,NLD,"Mar 22, 2020",18
+Netherlands,NLD,"Mar 29, 2020",47
+Netherlands,NLD,"Apr 5, 2020",75
+Netherlands,NLD,"Apr 12, 2020",75
+Netherlands,NLD,"Apr 19, 2020",52
+Netherlands,NLD,"Apr 26, 2020",40
+Netherlands,NLD,"May 3, 2020",24
+Netherlands,NLD,"May 10, 2020",7
+Netherlands,NLD,"May 17, 2020",2
+Netherlands,NLD,"May 24, 2020",2
+Netherlands,NLD,"May 31, 2020",0
+Netherlands,NLD,"Jun 7, 2020",1
+Netherlands,NLD,"Jun 14, 2020",2
+Netherlands,NLD,"Jun 21, 2020",3
+Netherlands,NLD,"Jun 28, 2020",0
+Netherlands,NLD,"Jul 5, 2020",-4
+Netherlands,NLD,"Jul 12, 2020",-1
+Netherlands,NLD,"Jul 19, 2020",-6
+Netherlands,NLD,"Jul 26, 2020",-1
+Netherlands,NLD,"Aug 2, 2020",1
+Netherlands,NLD,"Aug 9, 2020",-1
+Netherlands,NLD,"Aug 16, 2020",21
+Norway,NOR,"Jan 5, 2020",-7
+Norway,NOR,"Jan 12, 2020",3
+Norway,NOR,"Jan 19, 2020",-8
+Norway,NOR,"Jan 26, 2020",-3
+Norway,NOR,"Feb 2, 2020",-9
+Norway,NOR,"Feb 9, 2020",-8
+Norway,NOR,"Feb 16, 2020",-2
+Norway,NOR,"Feb 23, 2020",-6
+Norway,NOR,"Mar 1, 2020",-4
+Norway,NOR,"Mar 8, 2020",-8
+Norway,NOR,"Mar 15, 2020",-1
+Norway,NOR,"Mar 22, 2020",-1
+Norway,NOR,"Mar 29, 2020",9
+Norway,NOR,"Apr 5, 2020",4
+Norway,NOR,"Apr 12, 2020",7
+Norway,NOR,"Apr 19, 2020",6
+Norway,NOR,"Apr 26, 2020",-1
+Norway,NOR,"May 3, 2020",1
+Norway,NOR,"May 10, 2020",0
+Norway,NOR,"May 17, 2020",-5
+Norway,NOR,"May 24, 2020",1
+Norway,NOR,"May 31, 2020",-8
+Norway,NOR,"Jun 7, 2020",-5
+Norway,NOR,"Jun 14, 2020",1
+Norway,NOR,"Jun 21, 2020",1
+Norway,NOR,"Jun 28, 2020",-8
+Norway,NOR,"Jul 5, 2020",-9
+Norway,NOR,"Jul 12, 2020",-8
+Norway,NOR,"Jul 19, 2020",1
+Norway,NOR,"Jul 26, 2020",-2
+Norway,NOR,"Aug 2, 2020",2
+Norway,NOR,"Aug 9, 2020",-8
+Norway,NOR,"Aug 16, 2020",-20
+Poland,POL,"Jan 5, 2020",-1
+Poland,POL,"Jan 12, 2020",-3
+Poland,POL,"Jan 19, 2020",-6
+Poland,POL,"Jan 26, 2020",-7
+Poland,POL,"Feb 2, 2020",-4
+Poland,POL,"Feb 9, 2020",-5
+Poland,POL,"Feb 16, 2020",-3
+Poland,POL,"Feb 23, 2020",-4
+Poland,POL,"Mar 1, 2020",-4
+Poland,POL,"Mar 8, 2020",-3
+Poland,POL,"Mar 15, 2020",0
+Poland,POL,"Mar 22, 2020",0
+Poland,POL,"Mar 29, 2020",0
+Poland,POL,"Apr 5, 2020",0
+Poland,POL,"Apr 12, 2020",2
+Poland,POL,"Apr 19, 2020",7
+Poland,POL,"Apr 26, 2020",2
+Poland,POL,"May 3, 2020",4
+Poland,POL,"May 10, 2020",4
+Poland,POL,"May 17, 2020",5
+Poland,POL,"May 24, 2020",4
+Poland,POL,"May 31, 2020",5
+Poland,POL,"Jun 7, 2020",8
+Poland,POL,"Jun 14, 2020",7
+Poland,POL,"Jun 21, 2020",3
+Poland,POL,"Jun 28, 2020",5
+Portugal,PRT,"Jan 5, 2020",-11
+Portugal,PRT,"Jan 12, 2020",-5
+Portugal,PRT,"Jan 19, 2020",-3
+Portugal,PRT,"Jan 26, 2020",-6
+Portugal,PRT,"Feb 2, 2020",0
+Portugal,PRT,"Feb 9, 2020",-6
+Portugal,PRT,"Feb 16, 2020",-14
+Portugal,PRT,"Feb 23, 2020",-6
+Portugal,PRT,"Mar 1, 2020",-7
+Portugal,PRT,"Mar 8, 2020",-7
+Portugal,PRT,"Mar 15, 2020",3
+Portugal,PRT,"Mar 22, 2020",10
+Portugal,PRT,"Mar 29, 2020",17
+Portugal,PRT,"Apr 5, 2020",21
+Portugal,PRT,"Apr 12, 2020",23
+Portugal,PRT,"Apr 19, 2020",19
+Portugal,PRT,"Apr 26, 2020",16
+Portugal,PRT,"May 3, 2020",9
+Portugal,PRT,"May 10, 2020",13
+Portugal,PRT,"May 17, 2020",5
+Portugal,PRT,"May 24, 2020",7
+Portugal,PRT,"May 31, 2020",21
+Portugal,PRT,"Jun 7, 2020",7
+Portugal,PRT,"Jun 14, 2020",-1
+Portugal,PRT,"Jun 21, 2020",-3
+Portugal,PRT,"Jun 28, 2020",14
+Portugal,PRT,"Jul 5, 2020",11
+Portugal,PRT,"Jul 12, 2020",18
+Portugal,PRT,"Jul 19, 2020",39
+Scotland,,"Jan 5, 2020",-9
+Scotland,,"Jan 12, 2020",0
+Scotland,,"Jan 19, 2020",-4
+Scotland,,"Jan 26, 2020",-7
+Scotland,,"Feb 2, 2020",-7
+Scotland,,"Feb 9, 2020",-3
+Scotland,,"Feb 16, 2020",-8
+Scotland,,"Feb 23, 2020",-7
+Scotland,,"Mar 1, 2020",1
+Scotland,,"Mar 8, 2020",-2
+Scotland,,"Mar 15, 2020",2
+Scotland,,"Mar 22, 2020",7
+Scotland,,"Mar 29, 2020",-4
+Scotland,,"Apr 5, 2020",59
+Scotland,,"Apr 12, 2020",80
+Scotland,,"Apr 19, 2020",80
+Scotland,,"Apr 26, 2020",69
+Scotland,,"May 3, 2020",56
+Scotland,,"May 10, 2020",39
+Scotland,,"May 17, 2020",34
+Scotland,,"May 24, 2020",17
+Scotland,,"May 31, 2020",11
+Scotland,,"Jun 7, 2020",4
+Scotland,,"Jun 14, 2020",3
+Scotland,,"Jun 21, 2020",4
+Scotland,,"Jun 28, 2020",-2
+Scotland,,"Jul 5, 2020",-3
+Scotland,,"Jul 12, 2020",-5
+Scotland,,"Jul 19, 2020",4
+Scotland,,"Jul 26, 2020",-2
+Scotland,,"Aug 2, 2020",5
+Scotland,,"Aug 9, 2020",0
+Slovakia,SVK,"Jan 5, 2020",-7
+Slovakia,SVK,"Jan 12, 2020",-5
+Slovakia,SVK,"Jan 19, 2020",-10
+Slovakia,SVK,"Jan 26, 2020",-5
+Slovakia,SVK,"Feb 2, 2020",-6
+Slovakia,SVK,"Feb 9, 2020",-8
+Slovakia,SVK,"Feb 16, 2020",-1
+Slovakia,SVK,"Feb 23, 2020",-9
+Slovakia,SVK,"Mar 1, 2020",-4
+Slovakia,SVK,"Mar 8, 2020",-2
+Slovakia,SVK,"Mar 15, 2020",0
+Slovakia,SVK,"Mar 22, 2020",9
+Slovakia,SVK,"Mar 29, 2020",0
+Slovakia,SVK,"Apr 5, 2020",6
+Slovakia,SVK,"Apr 12, 2020",-6
+Slovakia,SVK,"Apr 19, 2020",-6
+Slovakia,SVK,"Apr 26, 2020",-4
+Slovakia,SVK,"May 3, 2020",-2
+Slovakia,SVK,"May 10, 2020",3
+Slovakia,SVK,"May 17, 2020",2
+Slovakia,SVK,"May 24, 2020",-3
+Slovakia,SVK,"May 31, 2020",-7
+Slovakia,SVK,"Jun 7, 2020",-2
+Slovakia,SVK,"Jun 14, 2020",-6
+Slovakia,SVK,"Jun 21, 2020",-12
+Slovakia,SVK,"Jun 28, 2020",-7
+Slovakia,SVK,"Jul 5, 2020",-76
+Slovenia,SVN,"Jan 5, 2020",-5
+Slovenia,SVN,"Jan 12, 2020",-7
+Slovenia,SVN,"Jan 19, 2020",-8
+Slovenia,SVN,"Jan 26, 2020",-5
+Slovenia,SVN,"Feb 2, 2020",-3
+Slovenia,SVN,"Feb 9, 2020",-3
+Slovenia,SVN,"Feb 16, 2020",8
+Slovenia,SVN,"Feb 23, 2020",-3
+Slovenia,SVN,"Mar 1, 2020",-6
+Slovenia,SVN,"Mar 8, 2020",3
+Slovenia,SVN,"Mar 15, 2020",-1
+Slovenia,SVN,"Mar 22, 2020",6
+Slovenia,SVN,"Mar 29, 2020",-9
+Spain,ESP,"Jan 5, 2020",-10
+Spain,ESP,"Jan 12, 2020",-7
+Spain,ESP,"Jan 19, 2020",-3
+Spain,ESP,"Jan 26, 2020",-5
+Spain,ESP,"Feb 2, 2020",-4
+Spain,ESP,"Feb 9, 2020",-3
+Spain,ESP,"Feb 16, 2020",-6
+Spain,ESP,"Feb 23, 2020",-9
+Spain,ESP,"Mar 1, 2020",-12
+Spain,ESP,"Mar 8, 2020",-2
+Spain,ESP,"Mar 15, 2020",9
+Spain,ESP,"Mar 22, 2020",54
+Spain,ESP,"Mar 29, 2020",132
+Spain,ESP,"Apr 5, 2020",154
+Spain,ESP,"Apr 12, 2020",116
+Spain,ESP,"Apr 19, 2020",69
+Spain,ESP,"Apr 26, 2020",35
+Spain,ESP,"May 3, 2020",17
+Spain,ESP,"May 10, 2020",14
+Spain,ESP,"May 17, 2020",1
+Spain,ESP,"May 24, 2020",3
+Spain,ESP,"May 31, 2020",-1
+Spain,ESP,"Jun 7, 2020",-2
+Spain,ESP,"Jun 14, 2020",-5
+Spain,ESP,"Jun 21, 2020",-4
+Spain,ESP,"Jun 28, 2020",1
+Spain,ESP,"Jul 5, 2020",-9
+Spain,ESP,"Jul 12, 2020",2
+Spain,ESP,"Jul 19, 2020",3
+Spain,ESP,"Jul 26, 2020",7
+Spain,ESP,"Aug 2, 2020",15
+Spain,ESP,"Aug 9, 2020",13
+Spain,ESP,"Aug 16, 2020",7
+Sweden,SWE,"Jan 5, 2020",-8
+Sweden,SWE,"Jan 12, 2020",-3
+Sweden,SWE,"Jan 19, 2020",-6
+Sweden,SWE,"Jan 26, 2020",-10
+Sweden,SWE,"Feb 2, 2020",-2
+Sweden,SWE,"Feb 9, 2020",-9
+Sweden,SWE,"Feb 16, 2020",-5
+Sweden,SWE,"Feb 23, 2020",-11
+Sweden,SWE,"Mar 1, 2020",-10
+Sweden,SWE,"Mar 8, 2020",-5
+Sweden,SWE,"Mar 15, 2020",-9
+Sweden,SWE,"Mar 22, 2020",4
+Sweden,SWE,"Mar 29, 2020",12
+Sweden,SWE,"Apr 5, 2020",32
+Sweden,SWE,"Apr 12, 2020",47
+Sweden,SWE,"Apr 19, 2020",43
+Sweden,SWE,"Apr 26, 2020",34
+Sweden,SWE,"May 3, 2020",36
+Sweden,SWE,"May 10, 2020",33
+Sweden,SWE,"May 17, 2020",26
+Sweden,SWE,"May 24, 2020",23
+Sweden,SWE,"May 31, 2020",6
+Sweden,SWE,"Jun 7, 2020",14
+Sweden,SWE,"Jun 14, 2020",13
+Sweden,SWE,"Jun 21, 2020",8
+Sweden,SWE,"Jun 28, 2020",7
+Sweden,SWE,"Jul 5, 2020",-1
+Sweden,SWE,"Jul 12, 2020",0
+Sweden,SWE,"Jul 19, 2020",-4
+Sweden,SWE,"Jul 26, 2020",-2
+Sweden,SWE,"Aug 2, 2020",-4
+Sweden,SWE,"Aug 9, 2020",0
+Sweden,SWE,"Aug 16, 2020",-8
+Switzerland,CHE,"Jan 5, 2020",-11
+Switzerland,CHE,"Jan 12, 2020",-8
+Switzerland,CHE,"Jan 19, 2020",-6
+Switzerland,CHE,"Jan 26, 2020",-3
+Switzerland,CHE,"Feb 2, 2020",-3
+Switzerland,CHE,"Feb 9, 2020",-8
+Switzerland,CHE,"Feb 16, 2020",-8
+Switzerland,CHE,"Feb 23, 2020",-10
+Switzerland,CHE,"Mar 1, 2020",-12
+Switzerland,CHE,"Mar 8, 2020",-7
+Switzerland,CHE,"Mar 15, 2020",0
+Switzerland,CHE,"Mar 22, 2020",14
+Switzerland,CHE,"Mar 29, 2020",25
+Switzerland,CHE,"Apr 5, 2020",43
+Switzerland,CHE,"Apr 12, 2020",32
+Switzerland,CHE,"Apr 19, 2020",27
+Switzerland,CHE,"Apr 26, 2020",13
+Switzerland,CHE,"May 3, 2020",1
+Switzerland,CHE,"May 10, 2020",-2
+Switzerland,CHE,"May 17, 2020",-3
+Switzerland,CHE,"May 24, 2020",-3
+Switzerland,CHE,"May 31, 2020",-6
+Switzerland,CHE,"Jun 7, 2020",-1
+Switzerland,CHE,"Jun 14, 2020",-1
+Switzerland,CHE,"Jun 21, 2020",-4
+Switzerland,CHE,"Jun 28, 2020",-4
+Switzerland,CHE,"Jul 5, 2020",-5
+Switzerland,CHE,"Jul 12, 2020",-5
+Switzerland,CHE,"Jul 19, 2020",-13
+Switzerland,CHE,"Jul 26, 2020",-13
+Switzerland,CHE,"Aug 2, 2020",-7
+United Kingdom,GBR,"Jan 5, 2020",34
+United Kingdom,GBR,"Jan 12, 2020",7
+United Kingdom,GBR,"Jan 19, 2020",-4
+United Kingdom,GBR,"Jan 26, 2020",-9
+United Kingdom,GBR,"Feb 2, 2020",-8
+United Kingdom,GBR,"Feb 9, 2020",-8
+United Kingdom,GBR,"Feb 16, 2020",-8
+United Kingdom,GBR,"Feb 23, 2020",-7
+United Kingdom,GBR,"Mar 1, 2020",-6
+United Kingdom,GBR,"Mar 8, 2020",-3
+United Kingdom,GBR,"Mar 15, 2020",-3
+United Kingdom,GBR,"Mar 22, 2020",-4
+United Kingdom,GBR,"Mar 29, 2020",4
+United Kingdom,GBR,"Apr 5, 2020",66
+United Kingdom,GBR,"Apr 12, 2020",76
+United Kingdom,GBR,"Apr 19, 2020",103
+United Kingdom,GBR,"Apr 26, 2020",108
+United Kingdom,GBR,"May 3, 2020",71
+United Kingdom,GBR,"May 10, 2020",32
+United Kingdom,GBR,"May 17, 2020",46
+United Kingdom,GBR,"May 24, 2020",21
+United Kingdom,GBR,"May 31, 2020",4
+United Kingdom,GBR,"Jun 7, 2020",22
+United Kingdom,GBR,"Jun 14, 2020",2
+United States,USA,"Jan 5, 2020",0
+United States,USA,"Jan 12, 2020",-1
+United States,USA,"Jan 19, 2020",-1
+United States,USA,"Jan 26, 2020",0
+United States,USA,"Feb 2, 2020",1
+United States,USA,"Feb 9, 2020",2
+United States,USA,"Feb 16, 2020",1
+United States,USA,"Feb 23, 2020",3
+United States,USA,"Mar 1, 2020",4
+United States,USA,"Mar 8, 2020",4
+United States,USA,"Mar 15, 2020",3
+United States,USA,"Mar 22, 2020",5
+United States,USA,"Mar 29, 2020",14
+United States,USA,"Apr 5, 2020",31
+United States,USA,"Apr 12, 2020",45
+United States,USA,"Apr 19, 2020",43
+United States,USA,"Apr 26, 2020",39
+United States,USA,"May 3, 2020",31
+United States,USA,"May 10, 2020",27
+United States,USA,"May 17, 2020",24
+United States,USA,"May 24, 2020",19
+United States,USA,"May 31, 2020",16
+United States,USA,"Jun 7, 2020",14
+United States,USA,"Jun 14, 2020",12
+United States,USA,"Jun 21, 2020",12
+United States,USA,"Jun 28, 2020",13
+United States,USA,"Jul 5, 2020",12
+United States,USA,"Jul 12, 2020",15
+United States,USA,"Jul 19, 2020",15
+United States,USA,"Jul 26, 2020",13
+United States,USA,"Aug 2, 2020",5
+United States,USA,"Aug 9, 2020",-16
